@@ -1944,3 +1944,45 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 271.834433 seconds.
+  path: Assets/Pysics Materials/Bouncy.physicMaterial
+  artifactKey: Guid(1718ba22675b2dc479a63b392c308f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pysics Materials/Bouncy.physicMaterial using Guid(1718ba22675b2dc479a63b392c308f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e48219d4752ca233bd369609fe388a5') in 0.032347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Scripts/RotateCamera.cs
+  artifactKey: Guid(659c056611abed04282d053942915a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RotateCamera.cs using Guid(659c056611abed04282d053942915a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '142a9529a4b0fcc36b28ddc19f3d805f') in 0.008459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Course Library/Materials/PolygonPrototype_Texture_Grid_07.mat
+  artifactKey: Guid(8476d06014a2ef743a633cec1b32f0fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Materials/PolygonPrototype_Texture_Grid_07.mat using Guid(8476d06014a2ef743a633cec1b32f0fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f745f52acbc0d310b936a197b2f676f9') in 0.099323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(cd2f229cb010d114ca6e5fbe2ea58189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(cd2f229cb010d114ca6e5fbe2ea58189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1f73c9e11bcb680727226cbcea66a85') in 0.002511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 291.635346 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f74b9f0782f3ffe8a654b2b60a9f33c') in 0.017397 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 65.748828 seconds.
+  path: Assets/Course Library
+  artifactKey: Guid(10a492cb0e85ae145b9cc221cc7928fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library using Guid(10a492cb0e85ae145b9cc221cc7928fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54cf003563895d955b35fc45be6c3ad8') in 0.015699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.175603 seconds.
+  path: Assets/Prefabs/PowerUp.prefab
+  artifactKey: Guid(ad39e18689d10174fae896e088a28def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PowerUp.prefab using Guid(ad39e18689d10174fae896e088a28def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '666c534119d270da08ed2e28fa689a5e') in 0.060543 seconds 
