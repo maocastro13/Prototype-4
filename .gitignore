@@ -1,0 +1,33 @@
+# Unity generated
+Temp/
+Library/
+
+# Build generated
+Builds/
+Obj/
+UnityVS.Launcher.log
+*.apk
+*.unitypackage
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.csproj
+*.pidb.meta
+*.pdb.meta
+*.dll.meta
+*.dll.mdb
+*.csproj.user
+
+# Some versions of Unity export a ".csproj" file with the same name as the folder
+# it's in. Such directories must be ignored
+*/[Bb]uild/
+
+# VScode
+.vscode/
+
+# Rider
+.idea/
+*.csproj.DotSettings.user
